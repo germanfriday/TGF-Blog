@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/chris/Desktop/new-baby/Blog</link>
+    <description>I&#x2019;ll keep you updated on what&#x2019;s going on with me here. My doctor&#x2019;s are very informative and are taking good care of me.</description>
+    <item>
+      <title>Hooray for Boobies!</title>
+      <link>file://localhost/Users/chris/Desktop/new-baby/Blog/Entries/2009/8/4_Hooray_for_Boobies%21.html</link>
+      <guid isPermaLink="false">6530e472-d221-4679-9267-09333eee0c46</guid>
+      <pubDate>Tue, 4 Aug 2009 11:35:33 -0400</pubDate>
+      <description>I nursed for the first time today. Much better than sugar water through a needle. I need some practice but am getting the hang of it. (sorry, no pic available)</description>
+      <iweb:comment link="file://localhost/Users/chris/Desktop/new-baby/Blog/Entries/2009/8/4_Hooray_for_Boobies%21.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>I  need a little special attention.</title>
+      <link>file://localhost/Users/chris/Desktop/new-baby/Blog/Entries/2009/8/3_I__need_a_little_special_attention..html</link>
+      <guid isPermaLink="false">36577478-2858-4e10-a09e-5cf3b741dc86</guid>
+      <pubDate>Mon, 3 Aug 2009 08:44:29 -0400</pubDate>
+      <description>I have a little bit of extra fluid in my lungs, and it makes it hard to breathe. I&#x2019;m getting some special care and won&#x2019;t be spending my first night with mom and dad. But I&#x2019;m on the mend and can&#x2019;t wait to be held by everyone soon.</description>
+      <iweb:image href="Media/t_DSC_1776.jpg"></iweb:image>
+      <iweb:comment link="file://localhost/Users/chris/Desktop/new-baby/Blog/Entries/2009/8/3_I__need_a_little_special_attention..html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/chris/Desktop/new-baby/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

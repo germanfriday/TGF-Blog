@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="AC5122C0-63EF-4F67-A658-E096A5A8854F">
+  <lastEdited clientType="local-build-20090805" date="2009-08-05 12:05:29 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>My Blog</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I nursed for the first time today. Much better than sugar water through a needle. I need some practice but am getting the hang of it. (sorry, no pic available)</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, August 4th, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hooray for Boobies!</richText>
+  </textBox>
+</content>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Jake’s podcast</title>
+<link>http://www.thegermanfriday.com/baby/Baby%20Site/podcast/podcast.html</link>
+<description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
+<generator>iWeb 1.1.1</generator>
+<image>
+<url>http://www.thegermanfriday.com/baby/Baby%20Site/podcast/podcast_files/skd267685sdc_b.png</url>
+<title>Jake’s podcast</title>
+<link>http://www.thegermanfriday.com/baby/Baby%20Site/podcast/podcast.html</link>
+</image>
+<ttl>60</ttl>
+<itunes:subtitle>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</itunes:subtitle>
+<itunes:summary>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</itunes:summary>
+<itunes:image href="http://www.thegermanfriday.com/baby/Baby%20Site/podcast/podcast_files/skd267685sdc_b.png"/>
+<item>
+<title>Sounds at the beach</title>
+<link>http://www.thegermanfriday.com/baby/Baby%20Site/podcast/F0BC1578-635A-475C-AA0C-25B1054B9629.html</link>
+<guid>http://www.thegermanfriday.com/baby/Baby%20Site/podcast/F0BC1578-635A-475C-AA0C-25B1054B9629.html</guid>
+<pubDate>Thu, 15 Jun 2006 23:09:15 -0400</pubDate>
+<description>&lt;a href="http://www.thegermanfriday.com/baby/Baby%20Site/podcast/F0BC1578-635A-475C-AA0C-25B1054B9629_files/skd281646sdc_300x300-1.mp4"&gt;&lt;img src="http://www.thegermanfriday.com/baby/Baby%20Site/podcast/Images/skd281646sdc_300x300-4.png" style="float:left; padding-right:10px; padding-bottom:10px; width:150px; height:150px;"/&gt;&lt;/a&gt;Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspe</description>
+<enclosure url="http://www.thegermanfriday.com/baby/Baby%20Site/podcast/F0BC1578-635A-475C-AA0C-25B1054B9629_files/skd281646sdc_300x300-1.mp4" length="25828" type="audio/mp4"/>
+<itunes:duration>00:00:00</itunes:duration>
+<itunes:subtitle>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspe</itunes:subtitle>
+<itunes:summary>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</itunes:summary>
+</item>
+</channel>
+</rss>

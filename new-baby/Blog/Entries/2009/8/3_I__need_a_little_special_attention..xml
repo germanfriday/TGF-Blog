@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="AC5122C0-63EF-4F67-A658-E096A5A8854F">
+  <lastEdited clientType="local-build-20090805" date="2009-08-05 12:05:28 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Shaun Michael Freitag</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I have a little bit of extra fluid in my lungs, and it makes it hard to breathe. I&#x2019;m getting some special care and won&#x2019;t be spending my first night with mom and dad. But I&#x2019;m on the mend and can&#x2019;t wait to be held by everyone soon.</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_I__need_a_little_special_attention._files/shapeimage_1.png" left="0px" top="0px" width="497px" height="373px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, August 3, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>I  need a little special attention.</richText>
+  </textBox>
+</content>

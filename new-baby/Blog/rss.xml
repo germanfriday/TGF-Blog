@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Shaun’s Thoughts</title>
+    <link>file://localhost/Users/chris/Desktop/new-baby/Blog/Blog.html</link>
+    <description>I’ll keep you updated on what’s going on with me here. My doctor’s are very informative and are taking good care of me.</description>
+    <generator>iWeb 2.0.4</generator>
+    <image>
+      <url>file://localhost/Users/chris/Desktop/new-baby/Blog/Blog_files/DSC_1802.jpg</url>
+      <title>Shaun’s Thoughts</title>
+      <link>file://localhost/Users/chris/Desktop/new-baby/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>Hooray for Boobies!</title>
+      <link>file://localhost/Users/chris/Desktop/new-baby/Blog/Entries/2009/8/4_Hooray_for_Boobies%21.html</link>
+      <guid isPermaLink="false">6530e472-d221-4679-9267-09333eee0c46</guid>
+      <pubDate>Tue, 4 Aug 2009 11:35:33 -0400</pubDate>
+      <description>I nursed for the first time today. Much better than sugar water through a needle. I need some practice but am getting the hang of it. (sorry, no pic available)</description>
+    </item>
+    <item>
+      <title>I  need a little special attention.</title>
+      <link>file://localhost/Users/chris/Desktop/new-baby/Blog/Entries/2009/8/3_I__need_a_little_special_attention..html</link>
+      <guid isPermaLink="false">36577478-2858-4e10-a09e-5cf3b741dc86</guid>
+      <pubDate>Mon, 3 Aug 2009 08:44:29 -0400</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/chris/Desktop/new-baby/Blog/Entries/2009/8/3_I__need_a_little_special_attention._files/DSC_1776.jpg&quot;&gt;&lt;img src=&quot;file://localhost/Users/chris/Desktop/new-baby/Blog/Media/DSC_1776.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:174px; height:116px;&quot;/&gt;&lt;/a&gt;I have a little bit of extra fluid in my lungs, and it makes it hard to breathe. I’m getting some special care and won’t be spending my first night with mom and dad. But I’m on the mend and can’t wait to be held by everyone soon.</description>
+      <enclosure url="file://localhost/Users/chris/Desktop/new-baby/Blog/Entries/2009/8/3_I__need_a_little_special_attention._files/DSC_1776.jpg" length="128861" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
